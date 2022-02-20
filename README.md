@@ -58,7 +58,7 @@ So the dymaxion license basically just states that _your_ code is 0BSD, _your_ c
 
 Yep. DY (dynamic), MAX (maximum), and ION (tension).
 
-R. Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller) was a bit of an oddball character, but he had some interesting ideas - from houses to cars to map projections. Amongst his many inventions, a number of them were called "dymaxion", which was a term ol' Bucky coined himself.
+[R. Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller) was a bit of an oddball character, but he had some interesting ideas - from houses to cars to map projections. Amongst his many inventions, a number of them were called "dymaxion", which was a term ol' Bucky coined himself.
 
 This collection of devices weren't terribly pragmatic, or even very functional, but they all had a few things in common - including the goal of "maximum gain of advantage from minimal energy input".
 
