@@ -84,7 +84,7 @@ So long as in the future I can build what I want without thinking about licensin
 
 This still doesn't cover everything, everywhere. It certainly doesn't cover explicit data licenses like the [ODbL](https://wiki.osmfoundation.org/wiki/Licence) or other elements where attribution is required. Each component just has to be evaluated on a case by case basis and treated accordingly until someone more clever than me finds a way around it.
 
-There is also the whole issue of ("compatibility")[https://www.gnu.org/licenses/license-compatibility.html], which is a needlessly complicated way of trying to force copyleft onto downstream projects. At this point, I expect the wording is going to cover the majority of permissive or intermediate licenses, but I don't think "incompatibly licensed" components are going to be covered until I can afford a legal team.
+There is also the whole issue of ["compatibility"](https://www.gnu.org/licenses/license-compatibility.html), which is a needlessly complicated way of trying to force copyleft onto downstream projects. At this point, I expect the wording is going to cover the majority of permissive or intermediate licenses, but I don't think "incompatibly licensed" components are going to be covered until I can afford a legal team.
 
 The simple solution is to just ignore copyleft projects as dependencies and components. Substitute everything that's "free" for something "libre" and maybe by 2050 we'll have a society that's more concerned with progress than with quarrelling. If there isn't any reasonable substitution for copyleft components, then it's probably a whale of a project and better to just abstract everything to a set of API integrations anyway.
 
